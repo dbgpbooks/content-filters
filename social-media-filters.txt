@@ -1,0 +1,10 @@
+reddit.com##.masthead
+reddit.com##header
+reddit.com##shreddit-feed
+
+m.youtube.com##.reel-shelf-content-wrapper
+m.youtube.com##.chip-bar-contents
+m.youtube.com##.feed-item
+m.youtube.com##ytm-pivot-bar-renderer
+m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
+m.youtube.com##div[tab-identifier="FEwhat_to_watch"]
